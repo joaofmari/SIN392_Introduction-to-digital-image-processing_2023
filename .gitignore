@@ -132,3 +132,7 @@ dmypy.json
 
 temp/
 figures/
+auxiliray/
+slides/
+slides_2022/
+slides_2023/

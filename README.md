@@ -31,20 +31,23 @@
 
 ## Lecture 05 - Transformações de intensidade II
 * [Slides (EN)](/slides/Aula05.TransformacoesDeIntensidade.2.(2022-1).pdf)
-* [Notebook](/notebooks/Aula%2005%20-%20Transforma%C3%A7%C3%B5es%20de%20intensidade%20II.ipynb)
-
+* [Notebook (EN)](/notebooks/Aula%2005%20-%20Transforma%C3%A7%C3%B5es%20de%20intensidade%20II.ipynb)
+* [Notebook (PT)](/notebooks/Aula%2005%20-%20Transforma%C3%A7%C3%B5es%20de%20intensidade%20II.ipynb)
 
 ## Lecture 06 - Filtragem espacial I
 * [Slides (EN)](/slides/Aula06.FiltragemEspacial.1.(2022-1).pdf)
-* [Notebook](/notebooks/Aula%2006%20-%20Filtragem%20espacial%20-%20Convolu%C3%A7%C3%A3o%20(Parte%201).ipynb)
+* [Notebook (EN)](/notebooks/Aula%2006%20-%20Filtragem%20espacial%20-%20Convolu%C3%A7%C3%A3o%20(Parte%201).ipynb)
+* [Notebook (PT)](/notebooks/Aula%2006%20-%20Filtragem%20espacial%20-%20Convolu%C3%A7%C3%A3o%20(Parte%201).ipynb)
 
 ## Lecture 07 - Filtragem espacial II
 * [Slides (EN)](/slides/Aula07.FiltragemEspacial.2.(2022-1).pdf)
-* [Notebook](/notebooks/Aula%2007%20-%20Filtragem%20espacial%20-%20Filtros%20passa-alta.ipynb)
+* [Notebook (EN)](/notebooks/Aula%2007%20-%20Filtragem%20espacial%20-%20Filtros%20passa-alta.ipynb)
+* [Notebook (PT)](/notebooks/Aula%2007%20-%20Filtragem%20espacial%20-%20Filtros%20passa-alta.ipynb)
 
 ## Lecture 08 - Segmentação I
 * [Slides (EN)](/slides/Aula08.Segmenta%C3%A7%C3%A3o.1.(2022-1).pdf)
-* [Notebook](/notebooks/Aula%2008%20-%20Segmenta%C3%A7%C3%A3o%20de%20imagens%20-%20Bordas.ipynb)
+* [Notebook (EN)](/notebooks/Aula%2008%20-%20Segmenta%C3%A7%C3%A3o%20de%20imagens%20-%20Bordas.ipynb)
+* [Notebook (PT)](/notebooks/Aula%2008%20-%20Segmenta%C3%A7%C3%A3o%20de%20imagens%20-%20Bordas.ipynb)
 
 ## Lecture 09 - Segmentação II
 * [Slides (EN)](/slides/Aula09.Segmenta%C3%A7%C3%A3o.2.(2022-1).pdf)

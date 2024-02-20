@@ -71,7 +71,7 @@
 
 ## Lecture 12 - Mathematical morphology II
 * [Slides (EN)](/slides/Aula12.MorfologiaMatematica.2.(2022-1).pdf)
-* [Notebook](/notebooks_EN/Lecture%2012%20-%20Mathematical%20morphology%20II.ipynb)
+* [Notebook (EN)](/notebooks_EN/Lecture%2012%20-%20Mathematical%20morphology%20II.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2012%20-%20Morfologia%20matemática%20II.ipynb)
 
 ## Lecture 13 - The Fourier transform
@@ -86,25 +86,30 @@
 ## Lecture 15 - Image classification
 * [Slides (EN)](/slides/Aula15.ClassificacaoDeImagens.(2022-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2015%20-%20Image%20classification.ipynb)
-* [Notebook (PT)](/notebooks/Aula%2015%20-%20Classifica%C3%A7%C3%A3o%20de%20imagens.ipynb)
+* [Notebook (PT-BR)](/notebooks/Aula%2015%20-%20Classificação%20de%20imagens.ipynb)
 
 ## Lecture 16 - Artificial neural networks - Perceptron
 * [Slides (EN)](/slides/Aula16.RedesNeuraisArtificiais.(2022-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2016%20-%20Artificial%20neural%20networks.ipynb)
-* [Notebook (PT)](/notebooks/Aula%2016%20-%20Redes%20Neurais%20Artificiais%20-%20Perceptron.ipynb)
+* [Notebook (PT-BR)](/notebooks/Aula%2016%20-%20Redes%20neurais%20artificiais.ipynb)
 
 ## Lecture 17 - Convolutional neural networks
 * [Slides (EN)](/slides/Aula17.RedesNeuraisConvolucionais.(2022-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2017%20-%20Convolutional%20neural%20networks.ipynb)
-* [Notebook (PT)](/notebooks/Aula%2017%20-%20Redes%20Neurais%20Convolucionais%20-%20Colab.ipynb)
+* [Notebook (PT-BR)](/notebooks/Aula%2017%20-%20Redes%20neurais%20convolucionais.ipynb)
 
 
 # Bibliography
 
+* GONZALEZ, R.C.; WOODS, R.E.; Digital Image Processing. 3rd edition. Pearson, 2009.
 * GONZALEZ, R.C.; WOODS, R.E.; Processamento Digital de Imagens - 3ª edição. Editora Pearson, 2009.
 * MARQUES FILHO, O.; VIEIRA NETO, H. Processamento digital de imagens. Brasport, 1999. 
-    * Disponível em: http://dainf.ct.utfpr.edu.br/~hvieir/pub.html 
+    * In Brazilian Portuguese.
+    * http://dainf.ct.utfpr.edu.br/~hvieir/pub.html 
 * AZEVEDO, E.; CONCI, A.; LETA, F. Computação gráfica: processamento de imagens digitais. Vol.2. Campus-Elsevier, 2008.
+* J. E. R. Queiroz, H. M. Gomes. Introdução ao Processamento Digital de Imagens. RITA. v. 13, 2006.
+    * In Brazilian Portuguese.
+    * http://www.dsc.ufcg.edu.br/~hmg/disciplinas/graduacao/vc-2016.2/Rita-Tutorial-PDI.pdf  
 * Gaël Varoquaux Emmanuelle Gouillart; Olav Vahtras; Pierre de Buyl (editores). Scipy Lecture Notes. Release 2020.1
     * Disponível em: http://scipy-lectures.org/
 * Goodfellow, I; Bengio, Y; Courville, A. Deep Learning. MIT Press, 2016.

@@ -132,9 +132,10 @@ dmypy.json
 temp/
 figures/
 auxiliary/
-slides/
 slides_2022/
-slides_2023/
+slides-ppt_2023/
+slides-ppt-EN_2023/
+slides-temp_2023
 notebooks/temp/
 notebooks/thrash/
 notebooks_EN/temp/

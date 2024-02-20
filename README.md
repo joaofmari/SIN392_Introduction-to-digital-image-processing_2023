@@ -6,16 +6,18 @@
 ---
 
 ## Lecture 01 - Introduction to digital image processing
-* [Slides (EN)](/slides/Aula01.Introducao.(2022-1).pdf)
-* [Slides (PT)](/slides/Aula01.Introducao.(2022-1).pdf)
+* [Slides (EN)](/slides_EN/)
+* [Slides (PT)](/slides/Aula01.Introducao.(2023-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2001%20-%20Introduction%20to%20digital%20image%20processing.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2001%20-%20Introdução%20ao%20processamento%20digital%20de%20imagens.ipynb)
 
 ## Lecture 02 - Fundamentos da imagem digital I
-* [Slides (EN)](/slides/Aula02.FundamentosDaImagemDigital.1.(2022-1).pdf)
+* [Slides (EN)](/slides_EN/)
+* [Slides (PT-BR)](/slides/Aula02.FundamentosDaImagemDigital.1.(2023-1).pdf)
 
 ## Lecture 03 - Fundamentos da imagem digital II
-* [Slides (EN)](/slides/Aula03.FundamentosDaImagemDigital.2.(2022-1).pdf)
+* [Slides (EN)](/slides_EN/)
+* [Slides (PT-BR)](/slides/Aula03.FundamentosDaImagemDigital.2.(2023-1).pdf.pdf)
 
 ## Introduction to Python
 * [Notebook (EN)](/notebooks_EN/Introduction%20to%20Python.ipynb)
@@ -26,56 +28,64 @@
 * [Notebook (PT-BR)](/notebooks/Introdução%20ao%20NumPy.ipynb)
 
 ## Lecture 04 - Intensity transformations
-* [Slides (EN)](/slides/Aula04.TransformacoesDeIntensidade.1.(2022-1).pdf)
+* [Slides (EN)](/slides_EN/Aula04.TransformacoesDeIntensidade.1.(2022-1).pdf)
+* [Slides (PT-BR)](/slides/Aula04.TransformacoesDeIntensidade.1.(2023-1).pdf)
 * [Notebook - Part 1 (EN)](/notebooks_EN/Lecture%2004%20-%20Intensity%20transformations%20(Part%201).ipynb)
 * [Notebook - Part 1 (PT-BR)](/notebooks/Aula%2004%20-%20Transformações%20de%20intensidade%20I%20(Part%201).ipynb)
 * [Notebook - Part 2 (EN)](/notebooks_EN/Lecture%2004%20-%20Intensity%20transformations%20(Part%202).ipynb)
 * [Notebook - Part 2 (PT-BR)](/notebooks/Aula%2004%20-%20Transformações%20de%20intensidade%20I%20(Part%202).ipynb)
 
 ## Lecture 05 - Intensity transformations II
-* [Slides (EN)](/slides/Aula05.TransformacoesDeIntensidade.2.(2022-1).pdf)
+* [Slides (EN)](/slides_EN/)
+* [Slides (PT-BR)](/slides/Aula05.TransformacoesDeIntensidade.2.(2023-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2005%20-%20Intensity%20transformations%20II.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2005%20-%20Transformações%20de%20intensidade%20II.ipynb)
 
 ## Lecture 06 - Spatial filtering I - Convolution and low-pass filtering
-* [Slides (EN)](/slides/Aula06.FiltragemEspacial.1.(2022-1).pdf)
+* [Slides (EN)](/slides_EN/)
+* [Slides (PT-BR)](/slides/Aula06.FiltragemEspacial.1.(2023-1).pdf)
 * [Notebook - Part 1 (EN)](/notebooks_EN/Lecture%2006%20-%20Spatial%20filtering%20-%20Convolution%20(Part%201).ipynb)
 * [Notebook - Part 1 (PT-BR)](/notebooks/Aula%2006%20-%20Filtragem%20espacial%20I%20(Parte%201).ipynb)
 * [Notebook - Part 2 (EN)](/notebooks_EN/Lecture%2006%20-%20Spatial%20filtering%20-%20Low-pass%20filters%20(Part%202).ipynb)
-* [Notebook - Part 2 (PT-BR)](/notebooks/Aula%2006%20-%20Filtragem%20espacial%20I%20(Parte%202).ipynb)
+* [Notebook - Part 2 (PT-BR)](/notebooks/Aula%2006%20-%20Filtragem%20espacial%20I%20-%20Filtros%20passa-baixa%20(Parte%202).ipynb)
 
 ## Lecture 07 - Spatial filtering II - High-pass filtering
-* [Slides (EN)](/slides/Aula07.FiltragemEspacial.2.(2022-1).pdf)
+* [Slides (EN)](/slides_EN/)
+* [Slides (PT-BR)](/slides/Aula07.FiltragemEspacial.2.(2023-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2007%20-%20Spatial%20filtering%20-%20High-pass%20filters.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2007%20-%20Filtragem%20espacial%20II%20-%20Filtros%20passa-alta.ipynb)
 
 ## Lecture 08 - Image segmentation I - Edges
-* [Slides (EN)](/slides/Aula08.Segmenta%C3%A7%C3%A3o.1.(2022-1).pdf)
+* [Slides (EN)](/slides_EN/)
+* [Slides (PT-BR)](/slides/Aula08.Segmentação.1.(2023-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2008%20-%20Image%20segmentation%20-%20Edges.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2008%20-%20Segmentação%20de%20imagens%20-%20Bordas.ipynb)
 
 ## Lecture 09 - Image segmentation II - Thresholding
-* [Slides (EN)](/slides/Aula09.Segmenta%C3%A7%C3%A3o.2.(2022-1).pdf)
+* [Slides (EN)](/slides_EN/)
+* [Slides (PT-BR)](/slides/Aula09.Segmentação.2.(2023-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2009%20-%20Image%20segmentation%20-%20Thresholding.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2009%20-%20Segmentação%20de%20imagens%20II%20-%20Limiarização.ipynb)
 
 ## Lecture 10 - Image segmentation III - Regions
-* [Slides (EN)](/slides/Aula10.Segmenta%C3%A7%C3%A3o.3.(2022-1).pdf)
+* [Slides (EN)](/slides_EN/)
+* [Slides (PT-BR)](/slides/Aula10.Segmentação.3.(2023-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2010%20-%20Image%20segmentation%20-%20Regions.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2010%20-%20Image%20segmentation%20-%20Regions.ipynb)
 
 ## Lecture 11 - Mathematical morphology I
-* [Slides (EN)](/slides/Aula11.MorfologiaMatematica.1.(2022-1).pdf)
+* [Slides (EN)](/slides_EN/)
+* [Slides (PT-BR)](/slides/Aula11.MorfologiaMatematica.1.(2023-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2011%20-%20Mathematical%20morphology%20I.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2011%20-%20Morfologia%20matemática%20I.ipynb)
 
 ## Lecture 12 - Mathematical morphology II
-* [Slides (EN)](/slides/Aula12.MorfologiaMatematica.2.(2022-1).pdf)
+* [Slides (PT-BR)](/slides/Aula12.MorfologiaMatematica.2.(2023-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2012%20-%20Mathematical%20morphology%20II.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2012%20-%20Morfologia%20matemática%20II.ipynb)
 
 ## Lecture 13 - The Fourier transform
-* [Slides (EN)](/slides/Aula13.TransformadaDeFourier.(2022-1).pdf)
+* [Slides (PT-BR)](/slides/Aula13.TransformadaDeFourier.(2023-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2013%20-%20The%20Fourier%20transform.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2013%20-%20Transformada%20de%20Fourier.ipynb)
 
@@ -84,17 +94,17 @@
 * [Notebook (PT-BR)](/notebooks/Aula%2014%20-%20Filtragem%20no%20domínio%20da%20frequência.ipynb)
 
 ## Lecture 15 - Image classification
-* [Slides (EN)](/slides/Aula15.ClassificacaoDeImagens.(2022-1).pdf)
+* [Slides (PT-BR)](/slides/Aula15.ClassificacaoDeImagens.(2023-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2015%20-%20Image%20classification.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2015%20-%20Classificação%20de%20imagens.ipynb)
 
 ## Lecture 16 - Artificial neural networks - Perceptron
-* [Slides (EN)](/slides/Aula16.RedesNeuraisArtificiais.(2022-1).pdf)
+* [Slides (PT-BR)](/slides/Aula16.RedesNeuraisArtificiais.(2023-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2016%20-%20Artificial%20neural%20networks.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2016%20-%20Redes%20neurais%20artificiais.ipynb)
 
 ## Lecture 17 - Convolutional neural networks
-* [Slides (EN)](/slides/Aula17.RedesNeuraisConvolucionais.(2022-1).pdf)
+* [Slides (PT-BR)](/slides/Aula17.RedesNeuraisConvolucionais.(2023-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2017%20-%20Convolutional%20neural%20networks.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2017%20-%20Redes%20neurais%20convolucionais.ipynb)
 
@@ -103,6 +113,7 @@
 
 * GONZALEZ, R.C.; WOODS, R.E.; Digital Image Processing. 3rd edition. Pearson, 2009.
 * GONZALEZ, R.C.; WOODS, R.E.; Processamento Digital de Imagens - 3ª edição. Editora Pearson, 2009.
+    * In Brazilian Portuguese.
 * MARQUES FILHO, O.; VIEIRA NETO, H. Processamento digital de imagens. Brasport, 1999. 
     * In Brazilian Portuguese.
     * http://dainf.ct.utfpr.edu.br/~hvieir/pub.html 
@@ -111,18 +122,18 @@
     * In Brazilian Portuguese.
     * http://www.dsc.ufcg.edu.br/~hmg/disciplinas/graduacao/vc-2016.2/Rita-Tutorial-PDI.pdf  
 * Gaël Varoquaux Emmanuelle Gouillart; Olav Vahtras; Pierre de Buyl (editores). Scipy Lecture Notes. Release 2020.1
-    * Disponível em: http://scipy-lectures.org/
+    * http://scipy-lectures.org/
 * Goodfellow, I; Bengio, Y; Courville, A. Deep Learning. MIT Press, 2016.
-    * Disponível em: https://www.deeplearningbook.org/ 
+    * https://www.deeplearningbook.org/ 
 * BRADSKY, G. KAEHLER, A. Learning OpenCV: computer vision with the OpenCV library. O´REILLY, 2008.
 * COSTA L. F.; CESAR-JR. R. M. C. Shape classification and analysis: theory and practice. 2 ed. CRC Press, 2009.
 * DUDA, R.O.; HART, P.E.; STORK, D.G. Pattern Classification. Wiley, 2001.
 * FRERY, A. C.; PECIANO, T. Introduction to image processing using R. Springer, 2013.
 * SOLEM E. Programming Computer Vision with Python. O´REILLY, 2012.
-    * Draft (rascunho) disponível para download: http://programmingcomputervision.com/
+    * (Draft) http://programmingcomputervision.com/
 * VELHO, L.; FRERY, A. C.; GOMES, J. Image processing for computer graphics and vision, 2 ed., Springer, 2009.
 * SZELISKI, R. Computer Vision: Algorithms and Applications, 2 ed. Springer, 2020.
-    * Draft (rascunho) disponível para download: http://programmingcomputervision.com/
+    * (Draft) http://programmingcomputervision.com/
 
 # Previous editions of the course
 
@@ -147,13 +158,20 @@
 * PyTorch
     * https://pytorch.org/
 
-# Conferences and journals.
-* SIBGRAPI
+# Conferences and journals
+* SIBGRAPI - Conference on Graphics, Patterns and Images
     * http://sibgrapi.sid.inpe.br/col/sid.inpe.br/banon/2001/03.30.15.38.24/doc/mirror.cgi
-* Workshop de Visão Computacional - WVC
+* WVC - Workshop de Visão Computacional 
     * http://iris.sel.eesc.usp.br/wvc/
-* VISAPP
+* VISAPP - International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications
     * https://visapp.scitevents.org/
+* CVPR - IEEE / CVF Computer Vision and Pattern Recognition Conference
+    * https://cvpr.thecvf.com/
+* ICCV - International Conference on Computer Vision
+    * https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings
+* ECCV - European Conference on Computer Vision
+    * https://eccv.ecva.net/
+
 
 # How to cite
 

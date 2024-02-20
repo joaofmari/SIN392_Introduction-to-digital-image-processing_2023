@@ -17,7 +17,7 @@
 
 ## Lecture 03 - Fundamentos da imagem digital II
 * [Slides (EN)](/slides_EN/)
-* [Slides (PT-BR)](/slides/Aula03.FundamentosDaImagemDigital.2.(2023-1).pdf.pdf)
+* [Slides (PT-BR)](/slides/Aula03.FundamentosDaImagemDigital.2.(2023-1).pdf)
 
 ## Introduction to Python
 * [Notebook (EN)](/notebooks_EN/Introduction%20to%20Python.ipynb)

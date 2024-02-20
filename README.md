@@ -163,7 +163,6 @@
     * https://pytorch.org/
 
 # Creating a conda environment for the course
----
 
 ## Without GPU
 ```
@@ -218,6 +217,7 @@
 ```
 
 # Conferences and journals
+
 * SIBGRAPI - Conference on Graphics, Patterns and Images
     * http://sibgrapi.sid.inpe.br/col/sid.inpe.br/banon/2001/03.30.15.38.24/doc/mirror.cgi
 * WVC - Workshop de Visão Computacional 

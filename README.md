@@ -6,81 +6,82 @@
 ---
 
 ## Lecture 01 - Introduction to digital image processing
-* [Slides (EN)](/slides_EN/)
-* [Slides (PT)](/slides/Aula01.Introducao.(2023-1).pdf)
+* [Slides (PT-BR)](/slides/Aula01.Introducao.(2023-1).pdf)
+* [Slides (EN)](/slides_EN/Lecture01.Introduction.(2023-1).v02.pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2001%20-%20Introduction%20to%20digital%20image%20processing.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2001%20-%20Introdução%20ao%20processamento%20digital%20de%20imagens.ipynb)
 
 ## Lecture 02 - Fundamentos da imagem digital I
-* [Slides (EN)](/slides_EN/)
 * [Slides (PT-BR)](/slides/Aula02.FundamentosDaImagemDigital.1.(2023-1).pdf)
+* [Slides (EN)](/slides_EN/Lecture02.FundamentalsOfDigitalImaging.1.(2023-1).pdf)
 
 ## Lecture 03 - Fundamentos da imagem digital II
-* [Slides (EN)](/slides_EN/)
 * [Slides (PT-BR)](/slides/Aula03.FundamentosDaImagemDigital.2.(2023-1).pdf)
+* [Slides (EN)](/slides_EN/Lecture03.FundamentalsOfDigitalImaging.2.(2023-1).pdf)
 
 ## Introduction to Python
-* [Notebook (EN)](/notebooks_EN/Introduction%20to%20Python.ipynb)
 * [Notebook (PT-BR)](/notebooks/Introdução%20ao%20Python.ipynb)
+* [Notebook (EN)](/notebooks_EN/Introduction%20to%20Python.ipynb)
 
 ## Introduction to NumPy
-* [Notebook (EN)](/notebooks_EN/Introduction%20to%20NumPy.ipynb)
 * [Notebook (PT-BR)](/notebooks/Introdução%20ao%20NumPy.ipynb)
+* [Notebook (EN)](/notebooks_EN/Introduction%20to%20NumPy.ipynb)
 
 ## Lecture 04 - Intensity transformations
-* [Slides (EN)](/slides_EN/Aula04.TransformacoesDeIntensidade.1.(2022-1).pdf)
 * [Slides (PT-BR)](/slides/Aula04.TransformacoesDeIntensidade.1.(2023-1).pdf)
+* [Slides (EN)](/slides_EN/Lecture04.IntensityTransformations.1.(2023-1).pdf)
 * [Notebook - Part 1 (EN)](/notebooks_EN/Lecture%2004%20-%20Intensity%20transformations%20(Part%201).ipynb)
 * [Notebook - Part 1 (PT-BR)](/notebooks/Aula%2004%20-%20Transformações%20de%20intensidade%20I%20(Part%201).ipynb)
 * [Notebook - Part 2 (EN)](/notebooks_EN/Lecture%2004%20-%20Intensity%20transformations%20(Part%202).ipynb)
 * [Notebook - Part 2 (PT-BR)](/notebooks/Aula%2004%20-%20Transformações%20de%20intensidade%20I%20(Part%202).ipynb)
 
 ## Lecture 05 - Intensity transformations II
-* [Slides (EN)](/slides_EN/)
 * [Slides (PT-BR)](/slides/Aula05.TransformacoesDeIntensidade.2.(2023-1).pdf)
+* [Slides (EN)](/slides_EN/Lecture05.IntensityTransformations.2.(2023-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2005%20-%20Intensity%20transformations%20II.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2005%20-%20Transformações%20de%20intensidade%20II.ipynb)
 
 ## Lecture 06 - Spatial filtering I - Convolution and low-pass filtering
-* [Slides (EN)](/slides_EN/)
 * [Slides (PT-BR)](/slides/Aula06.FiltragemEspacial.1.(2023-1).pdf)
+* [Slides (EN)](/slides_EN/Lecture06.SpatialFiltering.1.(2023-1).pdf)
 * [Notebook - Part 1 (EN)](/notebooks_EN/Lecture%2006%20-%20Spatial%20filtering%20-%20Convolution%20(Part%201).ipynb)
 * [Notebook - Part 1 (PT-BR)](/notebooks/Aula%2006%20-%20Filtragem%20espacial%20I%20(Parte%201).ipynb)
 * [Notebook - Part 2 (EN)](/notebooks_EN/Lecture%2006%20-%20Spatial%20filtering%20-%20Low-pass%20filters%20(Part%202).ipynb)
 * [Notebook - Part 2 (PT-BR)](/notebooks/Aula%2006%20-%20Filtragem%20espacial%20I%20-%20Filtros%20passa-baixa%20(Parte%202).ipynb)
 
 ## Lecture 07 - Spatial filtering II - High-pass filtering
-* [Slides (EN)](/slides_EN/)
 * [Slides (PT-BR)](/slides/Aula07.FiltragemEspacial.2.(2023-1).pdf)
+* [Slides (EN)](/slides_EN/Lecture07.SpatialFiltering.2.(2023-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2007%20-%20Spatial%20filtering%20-%20High-pass%20filters.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2007%20-%20Filtragem%20espacial%20II%20-%20Filtros%20passa-alta.ipynb)
 
 ## Lecture 08 - Image segmentation I - Edges
-* [Slides (EN)](/slides_EN/)
 * [Slides (PT-BR)](/slides/Aula08.Segmentação.1.(2023-1).pdf)
+* [Slides (EN)](/slides_EN/Lecture08.Segmentation.1.(2023-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2008%20-%20Image%20segmentation%20-%20Edges.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2008%20-%20Segmentação%20de%20imagens%20-%20Bordas.ipynb)
 
 ## Lecture 09 - Image segmentation II - Thresholding
-* [Slides (EN)](/slides_EN/)
 * [Slides (PT-BR)](/slides/Aula09.Segmentação.2.(2023-1).pdf)
+* [Slides (EN)](/slides_EN/Lecture09.Segmentation.2.(2023-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2009%20-%20Image%20segmentation%20-%20Thresholding.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2009%20-%20Segmentação%20de%20imagens%20II%20-%20Limiarização.ipynb)
 
 ## Lecture 10 - Image segmentation III - Regions
-* [Slides (EN)](/slides_EN/)
+* [Slides (EN)](/slides_EN/Lecture10.Segmentation.3.(2023-1).pdf)
 * [Slides (PT-BR)](/slides/Aula10.Segmentação.3.(2023-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2010%20-%20Image%20segmentation%20-%20Regions.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2010%20-%20Image%20segmentation%20-%20Regions.ipynb)
 
 ## Lecture 11 - Mathematical morphology I
-* [Slides (EN)](/slides_EN/)
 * [Slides (PT-BR)](/slides/Aula11.MorfologiaMatematica.1.(2023-1).pdf)
+* [Slides (EN)](/slides_EN/Lecture11.MathematicalMorphology.1.(2023).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2011%20-%20Mathematical%20morphology%20I.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2011%20-%20Morfologia%20matemática%20I.ipynb)
 
 ## Lecture 12 - Mathematical morphology II
 * [Slides (PT-BR)](/slides/Aula12.MorfologiaMatematica.2.(2023-1).pdf)
+* Slides (EN) *-- Available soon --*
 * [Notebook (EN)](/notebooks_EN/Lecture%2012%20-%20Mathematical%20morphology%20II.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2012%20-%20Morfologia%20matemática%20II.ipynb)
 
@@ -95,16 +96,19 @@
 
 ## Lecture 15 - Image classification
 * [Slides (PT-BR)](/slides/Aula15.ClassificacaoDeImagens.(2023-1).pdf)
+* Slides (EN) *-- Available soon --*
 * [Notebook (EN)](/notebooks_EN/Lecture%2015%20-%20Image%20classification.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2015%20-%20Classificação%20de%20imagens.ipynb)
 
 ## Lecture 16 - Artificial neural networks - Perceptron
 * [Slides (PT-BR)](/slides/Aula16.RedesNeuraisArtificiais.(2023-1).pdf)
+* Slides (EN) *-- Available soon --*
 * [Notebook (EN)](/notebooks_EN/Lecture%2016%20-%20Artificial%20neural%20networks.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2016%20-%20Redes%20neurais%20artificiais.ipynb)
 
 ## Lecture 17 - Convolutional neural networks
 * [Slides (PT-BR)](/slides/Aula17.RedesNeuraisConvolucionais.(2023-1).pdf)
+* Slides (EN) *-- Available soon --*
 * [Notebook (EN)](/notebooks_EN/Lecture%2017%20-%20Convolutional%20neural%20networks.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2017%20-%20Redes%20neurais%20convolucionais.ipynb)
 

@@ -162,6 +162,61 @@
 * PyTorch
     * https://pytorch.org/
 
+# Creating a conda environment for the course
+---
+
+## Without GPU
+```
+    $ conda create -n env-sin392-cpu-py39 python=3.9
+    $ conda activate env-sin392-cpu-py39
+
+    $ conda install pytorch torchvision torchaudio cpuonly -c pytorch
+    
+    $ pip install notebook
+    $ pip install matplotlib
+    $ pip install scipy
+    $ pip install scikit-image
+    $ pip install scikit-learn
+    $ pip install opencv-python
+    $ pip install pandas
+    $ pip install seaborn
+```
+
+## With GPU
+```
+    $ conda create -n env-sin392-py39 python=3.9
+    $ conda activate env-sin392-py39
+
+    $ conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
+    
+    $ pip install notebook
+    $ pip install matplotlib
+    $ pip install scipy
+    $ pip install scikit-image
+    $ pip install scikit-learn
+    $ pip install opencv-python
+    $ pip install pandas
+    $ pip install seaborn
+```
+
+## You can easily save and load a conda environment:
+
+* Saving an environment:
+```
+    $ conda env export > env-sin392-cpu-py39.yml
+```
+
+* Loading an environment:
+```
+    $ conda env create -f env-sin392-cpu-py39.yml 
+```
+
+* I provide YML files for the CPU and GPU conda environment.
+```
+    env-sin392-cpu-py39.yml
+    env-sin392-py39.yml
+```
+
 # Conferences and journals
 * SIBGRAPI - Conference on Graphics, Patterns and Images
     * http://sibgrapi.sid.inpe.br/col/sid.inpe.br/banon/2001/03.30.15.38.24/doc/mirror.cgi

@@ -68,8 +68,8 @@
 * [Notebook (PT-BR)](/notebooks/Aula%2009%20-%20Segmentação%20de%20imagens%20II%20-%20Limiarização.ipynb)
 
 ## Lecture 10 - Image segmentation III - Regions
-* [Slides (EN)](/slides_EN/Lecture10.Segmentation.3.(2023-1).pdf)
 * [Slides (PT-BR)](/slides/Aula10.Segmentação.3.(2023-1).pdf)
+* [Slides (EN)](/slides_EN/Lecture10.Segmentation.3.(2023-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2010%20-%20Image%20segmentation%20-%20Regions.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2010%20-%20Image%20segmentation%20-%20Regions.ipynb)
 

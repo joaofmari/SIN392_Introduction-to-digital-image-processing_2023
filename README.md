@@ -81,7 +81,7 @@
 
 ## Lecture 12 - Mathematical morphology II
 * [Slides (PT-BR)](/slides/Aula12.MorfologiaMatematica.2.(2023-1).pdf)
-* Slides (EN) *-- Available soon --*
+* [Slides (EN)](/slides_EN/Lecture12.MathematicalMorphology.2.(2023-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2012%20-%20Mathematical%20morphology%20II.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2012%20-%20Morfologia%20matemática%20II.ipynb)
 

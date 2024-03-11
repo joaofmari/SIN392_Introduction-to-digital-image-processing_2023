@@ -96,19 +96,19 @@
 
 ## Lecture 15 - Image classification
 * [Slides (PT-BR)](/slides/Aula15.ClassificacaoDeImagens.(2023-1).pdf)
-* Slides (EN) *-- Available soon --*
+* [Slides (EN)](/slides_EN/Lecture15.ClassifyingImagens.(2023).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2015%20-%20Image%20classification.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2015%20-%20Classificação%20de%20imagens.ipynb)
 
 ## Lecture 16 - Artificial neural networks - Perceptron
 * [Slides (PT-BR)](/slides/Aula16.RedesNeuraisArtificiais.(2023-1).pdf)
-* Slides (EN) *-- Available soon --*
+* [Slides (EN)](/slides_EN/Lecture16.ArtificialNeuralNetworks.(2023).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2016%20-%20Artificial%20neural%20networks.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2016%20-%20Redes%20neurais%20artificiais.ipynb)
 
 ## Lecture 17 - Convolutional neural networks
 * [Slides (PT-BR)](/slides/Aula17.RedesNeuraisConvolucionais.(2023-1).pdf)
-* Slides (EN) *-- Available soon --*
+* [Slides (EN)](/slides_EN/Lecture17.ConvolutionalNeuralNetworks.(2023).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2017%20-%20Convolutional%20neural%20networks.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2017%20-%20Redes%20neurais%20convolucionais.ipynb)
 

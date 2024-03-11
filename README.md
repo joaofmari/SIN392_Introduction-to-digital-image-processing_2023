@@ -87,6 +87,7 @@
 
 ## Lecture 13 - The Fourier transform
 * [Slides (PT-BR)](/slides/Aula13.TransformadaDeFourier.(2023-1).pdf)
+* [Slides (EN)](/slides_EN/Lecture13.FourierTransform.(2023-1).pdf)
 * [Notebook (EN)](/notebooks_EN/Lecture%2013%20-%20The%20Fourier%20transform.ipynb)
 * [Notebook (PT-BR)](/notebooks/Aula%2013%20-%20Transformada%20de%20Fourier.ipynb)
 
